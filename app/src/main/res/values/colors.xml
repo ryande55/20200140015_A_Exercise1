@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_200">#0B0117</color>
+    <color name="Yellow_500">#EDDB37</color>
+    <color name="Green_700">#4EBF11</color>
+    <color name="Red_200">#F44336</color>
+    <color name="gray_700">#384747</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="secondarycolor">#041739</color>
+    <color name="colornah">#D31B2B</color>
+    <color name="colonah2">#534AD1</color>
+
+</resources>
